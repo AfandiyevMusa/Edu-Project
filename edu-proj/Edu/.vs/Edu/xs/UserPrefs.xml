@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{C4FBC798-5FAA-4D1C-A3B3-5FF2DBBE6CBE}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Edu PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Edu/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="Edu/Models/BaseEntity.cs" />
+      <File FileName="Edu/Edu.csproj" />
+      <File FileName="Edu/Models/ErrorViewModel.cs" />
+      <File FileName="Edu/ViewModels/HomeVM.cs" />
+      <File FileName="Edu/Controllers/HomeController.cs" Line="19" Column="10" />
+      <File FileName="Edu/Views/Home/Index.cshtml" />
+      <File FileName="Edu/Views/_ViewImports.cshtml" />
+      <File FileName="Edu/Program.cs" />
+      <File FileName="Edu/Services/Interfaces/ICoursesService.cs" />
+      <File FileName="Edu/Services/CoursesService.cs" Line="19" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Edu" expanded="True">
+            <Node name="Edu" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+              <Node name="DAL" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+              </Node>
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

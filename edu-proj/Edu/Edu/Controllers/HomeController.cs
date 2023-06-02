@@ -1,21 +1,34 @@
 ﻿using Edu.Models;
-using Microsoft.AspNetCore.Mvc;
+using Edu.DAL;
+using Edu.ViewModels;
+using Edu.Services;
+using Edu.Services.Interfaces;
 using System.Diagnostics;
+using Microsoft.AspNetCore.Mvc;
+using System.Collections.Generic;
+using Microsoft.EntityFrameworkCore;
+using System.Threading.Tasks;
 
 namespace Edu.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly ICoursesService _coursesService;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ICoursesService coursesService)
         {
-            _logger = logger;
+            _coursesService = coursesService;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            return View();
+            List<Course> courses = await _coursesService.GetAllAsync();
+
+            HomeVM model = new()
+            {
+                Courses = courses
+            };
+            return View(model);
         }
 
         public IActionResult Privacy()

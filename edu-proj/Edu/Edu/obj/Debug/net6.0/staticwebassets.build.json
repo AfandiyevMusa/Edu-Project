@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wXPBqmoRAwy8BNNOX4WAolsK28tQAM3y0B/BhSXJ5TQ=",
+  "Hash": "6qGqNekUdV3zfYiSloKpV/lu+6dfCH9bl5DBs4tjwsM=",
   "Source": "Edu",
   "BasePath": "_content/Edu",
   "Mode": "Default",
@@ -8,19 +8,19 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "Edu\\wwwroot",
+      "Name": "Edu/wwwroot",
       "Source": "Edu",
-      "ContentRoot": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\",
+      "ContentRoot": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/",
       "BasePath": "_content/Edu",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Edu.styles.css",
+      "Identity": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/obj/Debug/net6.0/scopedcss/bundle/Edu.styles.css",
       "SourceId": "Edu",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/obj/Debug/net6.0/scopedcss/bundle/",
       "BasePath": "_content/Edu",
       "RelativePath": "Edu.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Edu.styles.css"
+      "OriginalItemSpec": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/obj/Debug/net6.0/scopedcss/bundle/Edu.styles.css"
     },
     {
-      "Identity": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Edu.bundle.scp.css",
+      "Identity": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/obj/Debug/net6.0/scopedcss/projectbundle/Edu.bundle.scp.css",
       "SourceId": "Edu",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/obj/Debug/net6.0/scopedcss/projectbundle/",
       "BasePath": "_content/Edu",
       "RelativePath": "Edu.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Edu.bundle.scp.css"
+      "OriginalItemSpec": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/obj/Debug/net6.0/scopedcss/projectbundle/Edu.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\css\\bootstrap.min.css",
+      "Identity": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/css/bootstrap.min.css",
       "SourceId": "Edu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\",
+      "ContentRoot": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/",
       "BasePath": "_content/Edu",
       "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
@@ -65,13 +65,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
+      "OriginalItemSpec": "wwwroot/css/bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\css\\style.css",
+      "Identity": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/css/style.css",
       "SourceId": "Edu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\",
+      "ContentRoot": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/",
       "BasePath": "_content/Edu",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -82,13 +82,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\style.css"
+      "OriginalItemSpec": "wwwroot/css/style.css"
     },
     {
-      "Identity": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\img\\about.jpg",
+      "Identity": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/img/about.jpg",
       "SourceId": "Edu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\",
+      "ContentRoot": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/",
       "BasePath": "_content/Edu",
       "RelativePath": "img/about.jpg",
       "AssetKind": "All",
@@ -99,13 +99,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\about.jpg"
+      "OriginalItemSpec": "wwwroot/img/about.jpg"
     },
     {
-      "Identity": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\img\\carousel-1.jpg",
+      "Identity": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/img/carousel-1.jpg",
       "SourceId": "Edu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\",
+      "ContentRoot": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/",
       "BasePath": "_content/Edu",
       "RelativePath": "img/carousel-1.jpg",
       "AssetKind": "All",
@@ -116,13 +116,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\carousel-1.jpg"
+      "OriginalItemSpec": "wwwroot/img/carousel-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\img\\carousel-2.jpg",
+      "Identity": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/img/carousel-2.jpg",
       "SourceId": "Edu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\",
+      "ContentRoot": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/",
       "BasePath": "_content/Edu",
       "RelativePath": "img/carousel-2.jpg",
       "AssetKind": "All",
@@ -133,13 +133,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\carousel-2.jpg"
+      "OriginalItemSpec": "wwwroot/img/carousel-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\img\\cat-1.jpg",
+      "Identity": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/img/cat-1.jpg",
       "SourceId": "Edu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\",
+      "ContentRoot": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/",
       "BasePath": "_content/Edu",
       "RelativePath": "img/cat-1.jpg",
       "AssetKind": "All",
@@ -150,13 +150,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\cat-1.jpg"
+      "OriginalItemSpec": "wwwroot/img/cat-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\img\\cat-2.jpg",
+      "Identity": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/img/cat-2.jpg",
       "SourceId": "Edu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\",
+      "ContentRoot": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/",
       "BasePath": "_content/Edu",
       "RelativePath": "img/cat-2.jpg",
       "AssetKind": "All",
@@ -167,13 +167,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\cat-2.jpg"
+      "OriginalItemSpec": "wwwroot/img/cat-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\img\\cat-3.jpg",
+      "Identity": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/img/cat-3.jpg",
       "SourceId": "Edu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\",
+      "ContentRoot": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/",
       "BasePath": "_content/Edu",
       "RelativePath": "img/cat-3.jpg",
       "AssetKind": "All",
@@ -184,13 +184,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\cat-3.jpg"
+      "OriginalItemSpec": "wwwroot/img/cat-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\img\\cat-4.jpg",
+      "Identity": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/img/cat-4.jpg",
       "SourceId": "Edu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\",
+      "ContentRoot": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/",
       "BasePath": "_content/Edu",
       "RelativePath": "img/cat-4.jpg",
       "AssetKind": "All",
@@ -201,13 +201,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\cat-4.jpg"
+      "OriginalItemSpec": "wwwroot/img/cat-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\img\\course-1.jpg",
+      "Identity": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/img/course-1.jpg",
       "SourceId": "Edu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\",
+      "ContentRoot": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/",
       "BasePath": "_content/Edu",
       "RelativePath": "img/course-1.jpg",
       "AssetKind": "All",
@@ -218,13 +218,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\course-1.jpg"
+      "OriginalItemSpec": "wwwroot/img/course-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\img\\course-2.jpg",
+      "Identity": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/img/course-2.jpg",
       "SourceId": "Edu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\",
+      "ContentRoot": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/",
       "BasePath": "_content/Edu",
       "RelativePath": "img/course-2.jpg",
       "AssetKind": "All",
@@ -235,13 +235,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\course-2.jpg"
+      "OriginalItemSpec": "wwwroot/img/course-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\img\\course-3.jpg",
+      "Identity": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/img/course-3.jpg",
       "SourceId": "Edu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\",
+      "ContentRoot": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/",
       "BasePath": "_content/Edu",
       "RelativePath": "img/course-3.jpg",
       "AssetKind": "All",
@@ -252,13 +252,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\course-3.jpg"
+      "OriginalItemSpec": "wwwroot/img/course-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\img\\team-1.jpg",
+      "Identity": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/img/team-1.jpg",
       "SourceId": "Edu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\",
+      "ContentRoot": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/",
       "BasePath": "_content/Edu",
       "RelativePath": "img/team-1.jpg",
       "AssetKind": "All",
@@ -269,13 +269,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\team-1.jpg"
+      "OriginalItemSpec": "wwwroot/img/team-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\img\\team-2.jpg",
+      "Identity": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/img/team-2.jpg",
       "SourceId": "Edu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\",
+      "ContentRoot": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/",
       "BasePath": "_content/Edu",
       "RelativePath": "img/team-2.jpg",
       "AssetKind": "All",
@@ -286,13 +286,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\team-2.jpg"
+      "OriginalItemSpec": "wwwroot/img/team-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\img\\team-3.jpg",
+      "Identity": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/img/team-3.jpg",
       "SourceId": "Edu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\",
+      "ContentRoot": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/",
       "BasePath": "_content/Edu",
       "RelativePath": "img/team-3.jpg",
       "AssetKind": "All",
@@ -303,13 +303,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\team-3.jpg"
+      "OriginalItemSpec": "wwwroot/img/team-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\img\\team-4.jpg",
+      "Identity": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/img/team-4.jpg",
       "SourceId": "Edu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\",
+      "ContentRoot": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/",
       "BasePath": "_content/Edu",
       "RelativePath": "img/team-4.jpg",
       "AssetKind": "All",
@@ -320,13 +320,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\team-4.jpg"
+      "OriginalItemSpec": "wwwroot/img/team-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\img\\testimonial-1.jpg",
+      "Identity": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/img/testimonial-1.jpg",
       "SourceId": "Edu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\",
+      "ContentRoot": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/",
       "BasePath": "_content/Edu",
       "RelativePath": "img/testimonial-1.jpg",
       "AssetKind": "All",
@@ -337,13 +337,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\testimonial-1.jpg"
+      "OriginalItemSpec": "wwwroot/img/testimonial-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\img\\testimonial-2.jpg",
+      "Identity": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/img/testimonial-2.jpg",
       "SourceId": "Edu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\",
+      "ContentRoot": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/",
       "BasePath": "_content/Edu",
       "RelativePath": "img/testimonial-2.jpg",
       "AssetKind": "All",
@@ -354,13 +354,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\testimonial-2.jpg"
+      "OriginalItemSpec": "wwwroot/img/testimonial-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\img\\testimonial-3.jpg",
+      "Identity": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/img/testimonial-3.jpg",
       "SourceId": "Edu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\",
+      "ContentRoot": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/",
       "BasePath": "_content/Edu",
       "RelativePath": "img/testimonial-3.jpg",
       "AssetKind": "All",
@@ -371,13 +371,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\testimonial-3.jpg"
+      "OriginalItemSpec": "wwwroot/img/testimonial-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\img\\testimonial-4.jpg",
+      "Identity": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/img/testimonial-4.jpg",
       "SourceId": "Edu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\",
+      "ContentRoot": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/",
       "BasePath": "_content/Edu",
       "RelativePath": "img/testimonial-4.jpg",
       "AssetKind": "All",
@@ -388,13 +388,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\testimonial-4.jpg"
+      "OriginalItemSpec": "wwwroot/img/testimonial-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\js\\main.js",
+      "Identity": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/js/main.js",
       "SourceId": "Edu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\",
+      "ContentRoot": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/",
       "BasePath": "_content/Edu",
       "RelativePath": "js/main.js",
       "AssetKind": "All",
@@ -405,13 +405,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\main.js"
+      "OriginalItemSpec": "wwwroot/js/main.js"
     },
     {
-      "Identity": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\lib\\animate\\animate.css",
+      "Identity": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/lib/animate/animate.css",
       "SourceId": "Edu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\",
+      "ContentRoot": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/",
       "BasePath": "_content/Edu",
       "RelativePath": "lib/animate/animate.css",
       "AssetKind": "All",
@@ -422,13 +422,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\animate\\animate.css"
+      "OriginalItemSpec": "wwwroot/lib/animate/animate.css"
     },
     {
-      "Identity": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\lib\\animate\\animate.min.css",
+      "Identity": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/lib/animate/animate.min.css",
       "SourceId": "Edu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\",
+      "ContentRoot": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/",
       "BasePath": "_content/Edu",
       "RelativePath": "lib/animate/animate.min.css",
       "AssetKind": "All",
@@ -439,13 +439,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\animate\\animate.min.css"
+      "OriginalItemSpec": "wwwroot/lib/animate/animate.min.css"
     },
     {
-      "Identity": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\lib\\easing\\easing.js",
+      "Identity": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/lib/easing/easing.js",
       "SourceId": "Edu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\",
+      "ContentRoot": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/",
       "BasePath": "_content/Edu",
       "RelativePath": "lib/easing/easing.js",
       "AssetKind": "All",
@@ -456,13 +456,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\easing\\easing.js"
+      "OriginalItemSpec": "wwwroot/lib/easing/easing.js"
     },
     {
-      "Identity": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\lib\\easing\\easing.min.js",
+      "Identity": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/lib/easing/easing.min.js",
       "SourceId": "Edu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\",
+      "ContentRoot": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/",
       "BasePath": "_content/Edu",
       "RelativePath": "lib/easing/easing.min.js",
       "AssetKind": "All",
@@ -473,13 +473,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\easing\\easing.min.js"
+      "OriginalItemSpec": "wwwroot/lib/easing/easing.min.js"
     },
     {
-      "Identity": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "Identity": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/lib/owlcarousel/assets/ajax-loader.gif",
       "SourceId": "Edu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\",
+      "ContentRoot": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/",
       "BasePath": "_content/Edu",
       "RelativePath": "lib/owlcarousel/assets/ajax-loader.gif",
       "AssetKind": "All",
@@ -490,13 +490,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+      "OriginalItemSpec": "wwwroot/lib/owlcarousel/assets/ajax-loader.gif"
     },
     {
-      "Identity": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "Identity": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/lib/owlcarousel/assets/owl.carousel.css",
       "SourceId": "Edu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\",
+      "ContentRoot": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/",
       "BasePath": "_content/Edu",
       "RelativePath": "lib/owlcarousel/assets/owl.carousel.css",
       "AssetKind": "All",
@@ -507,13 +507,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css"
+      "OriginalItemSpec": "wwwroot/lib/owlcarousel/assets/owl.carousel.css"
     },
     {
-      "Identity": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "Identity": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/lib/owlcarousel/assets/owl.carousel.min.css",
       "SourceId": "Edu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\",
+      "ContentRoot": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/",
       "BasePath": "_content/Edu",
       "RelativePath": "lib/owlcarousel/assets/owl.carousel.min.css",
       "AssetKind": "All",
@@ -524,13 +524,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+      "OriginalItemSpec": "wwwroot/lib/owlcarousel/assets/owl.carousel.min.css"
     },
     {
-      "Identity": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "Identity": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/lib/owlcarousel/assets/owl.theme.default.css",
       "SourceId": "Edu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\",
+      "ContentRoot": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/",
       "BasePath": "_content/Edu",
       "RelativePath": "lib/owlcarousel/assets/owl.theme.default.css",
       "AssetKind": "All",
@@ -541,13 +541,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+      "OriginalItemSpec": "wwwroot/lib/owlcarousel/assets/owl.theme.default.css"
     },
     {
-      "Identity": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "Identity": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/lib/owlcarousel/assets/owl.theme.default.min.css",
       "SourceId": "Edu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\",
+      "ContentRoot": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/",
       "BasePath": "_content/Edu",
       "RelativePath": "lib/owlcarousel/assets/owl.theme.default.min.css",
       "AssetKind": "All",
@@ -558,13 +558,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+      "OriginalItemSpec": "wwwroot/lib/owlcarousel/assets/owl.theme.default.min.css"
     },
     {
-      "Identity": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "Identity": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/lib/owlcarousel/assets/owl.theme.green.css",
       "SourceId": "Edu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\",
+      "ContentRoot": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/",
       "BasePath": "_content/Edu",
       "RelativePath": "lib/owlcarousel/assets/owl.theme.green.css",
       "AssetKind": "All",
@@ -575,13 +575,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+      "OriginalItemSpec": "wwwroot/lib/owlcarousel/assets/owl.theme.green.css"
     },
     {
-      "Identity": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "Identity": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/lib/owlcarousel/assets/owl.theme.green.min.css",
       "SourceId": "Edu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\",
+      "ContentRoot": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/",
       "BasePath": "_content/Edu",
       "RelativePath": "lib/owlcarousel/assets/owl.theme.green.min.css",
       "AssetKind": "All",
@@ -592,13 +592,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+      "OriginalItemSpec": "wwwroot/lib/owlcarousel/assets/owl.theme.green.min.css"
     },
     {
-      "Identity": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "Identity": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/lib/owlcarousel/assets/owl.video.play.png",
       "SourceId": "Edu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\",
+      "ContentRoot": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/",
       "BasePath": "_content/Edu",
       "RelativePath": "lib/owlcarousel/assets/owl.video.play.png",
       "AssetKind": "All",
@@ -609,13 +609,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png"
+      "OriginalItemSpec": "wwwroot/lib/owlcarousel/assets/owl.video.play.png"
     },
     {
-      "Identity": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "Identity": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/lib/owlcarousel/LICENSE",
       "SourceId": "Edu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\",
+      "ContentRoot": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/",
       "BasePath": "_content/Edu",
       "RelativePath": "lib/owlcarousel/LICENSE",
       "AssetKind": "All",
@@ -626,13 +626,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\LICENSE"
+      "OriginalItemSpec": "wwwroot/lib/owlcarousel/LICENSE"
     },
     {
-      "Identity": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "Identity": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/lib/owlcarousel/owl.carousel.js",
       "SourceId": "Edu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\",
+      "ContentRoot": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/",
       "BasePath": "_content/Edu",
       "RelativePath": "lib/owlcarousel/owl.carousel.js",
       "AssetKind": "All",
@@ -643,13 +643,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\owl.carousel.js"
+      "OriginalItemSpec": "wwwroot/lib/owlcarousel/owl.carousel.js"
     },
     {
-      "Identity": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "Identity": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/lib/owlcarousel/owl.carousel.min.js",
       "SourceId": "Edu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\",
+      "ContentRoot": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/",
       "BasePath": "_content/Edu",
       "RelativePath": "lib/owlcarousel/owl.carousel.min.js",
       "AssetKind": "All",
@@ -660,13 +660,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\owl.carousel.min.js"
+      "OriginalItemSpec": "wwwroot/lib/owlcarousel/owl.carousel.min.js"
     },
     {
-      "Identity": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\lib\\waypoints\\links.php",
+      "Identity": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/lib/waypoints/links.php",
       "SourceId": "Edu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\",
+      "ContentRoot": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/",
       "BasePath": "_content/Edu",
       "RelativePath": "lib/waypoints/links.php",
       "AssetKind": "All",
@@ -677,13 +677,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\waypoints\\links.php"
+      "OriginalItemSpec": "wwwroot/lib/waypoints/links.php"
     },
     {
-      "Identity": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "Identity": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/lib/waypoints/waypoints.min.js",
       "SourceId": "Edu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\",
+      "ContentRoot": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/",
       "BasePath": "_content/Edu",
       "RelativePath": "lib/waypoints/waypoints.min.js",
       "AssetKind": "All",
@@ -694,13 +694,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\waypoints\\waypoints.min.js"
+      "OriginalItemSpec": "wwwroot/lib/waypoints/waypoints.min.js"
     },
     {
-      "Identity": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\lib\\wow\\wow.js",
+      "Identity": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/lib/wow/wow.js",
       "SourceId": "Edu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\",
+      "ContentRoot": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/",
       "BasePath": "_content/Edu",
       "RelativePath": "lib/wow/wow.js",
       "AssetKind": "All",
@@ -711,13 +711,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\wow\\wow.js"
+      "OriginalItemSpec": "wwwroot/lib/wow/wow.js"
     },
     {
-      "Identity": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\lib\\wow\\wow.min.js",
+      "Identity": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/lib/wow/wow.min.js",
       "SourceId": "Edu",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\FAT\\Desktop\\edu-proj\\Edu\\Edu\\wwwroot\\",
+      "ContentRoot": "/Users/afandiyevmusa/Desktop/Edu-Project/edu-proj/Edu/Edu/wwwroot/",
       "BasePath": "_content/Edu",
       "RelativePath": "lib/wow/wow.min.js",
       "AssetKind": "All",
@@ -728,7 +728,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\wow\\wow.min.js"
+      "OriginalItemSpec": "wwwroot/lib/wow/wow.min.js"
     }
   ]
 }
