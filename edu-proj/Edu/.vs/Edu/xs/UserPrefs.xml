@@ -1,11 +1,10 @@
 ﻿<Properties StartupConfiguration="{C4FBC798-5FAA-4D1C-A3B3-5FF2DBBE6CBE}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Edu PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Edu PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Edu/Controllers/HomeController.cs">
     <Files>
       <File FileName="Edu/Models/BaseEntity.cs" />
@@ -17,7 +16,7 @@
       <File FileName="Edu/Views/_ViewImports.cshtml" />
       <File FileName="Edu/Program.cs" />
       <File FileName="Edu/Services/Interfaces/ICoursesService.cs" />
-      <File FileName="Edu/Services/CoursesService.cs" Line="19" Column="20" />
+      <File FileName="Edu/Services/CoursesService.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -43,4 +42,5 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
 </Properties>
